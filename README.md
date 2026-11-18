@@ -1,4 +1,3 @@
-# empacadora-vertical-esp32
 # Empacadora Vertical Automática de Frutas con ESP32
 
 **Escuela Superior Politécnica del Litoral (ESPOL)**  
